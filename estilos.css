@@ -1,0 +1,90 @@
+
+nav{
+    width: 100%; 
+    height: 10%;
+    float: center;
+    border: 1px;
+    background-color: #93724C;
+    display: flex;
+}
+.nav1{
+    height: 90%;
+    justify-content: center;
+    flex: 2;
+    display: flex;
+}
+.nav2{
+    height: 90%;
+    justify-content: center;
+    flex: 5;
+}
+.container3{
+    display: inline-flex;
+}
+.container3 a{
+    text-decoration: none;
+    color: black;
+    padding: 10% 50% 0% 0%;
+}
+section{
+    width: 100%;
+    height: 90%;
+    float: center;
+    border: 1px;
+    background-color: FFF0C9;
+}
+.container{
+    display: flex;
+    height: 60%;
+    width: 100%
+}
+.i{
+    height: 90%;
+    flex: 1;
+    display: block;
+}
+.c{
+    height: 90%;
+    justify-content: center;
+    flex: 1;
+    margin-top: 5%;
+}
+.d{
+    height: 90%;
+    justify-content: start;
+    flex: 1;
+    display: flex;
+}
+
+.container2{
+    display: flex;
+    height: 40%;
+    width: 100%;
+}
+.formulario1{
+    height: 90%;
+    justify-content: center;
+    flex: 1;
+}
+.formulario2{
+    height: 90%;
+    justify-content: center;
+    flex: 1;
+}
+.img1{
+    width: 100%;
+    height: 50%;
+}
+.po{
+    display: block;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+.po1{
+    display: block;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+h1{
+    font: oblique bold 120% cursive;
+  }

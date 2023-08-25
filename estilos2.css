@@ -1,0 +1,63 @@
+nav{
+    width: 100%; 
+    height: 10%;
+    float: center;
+    border: 1px;
+    background-color: #93724C;
+    display: flex;
+}
+.nav1{
+    height: 90%;
+    justify-content: center;
+    flex: 2;
+    display: flex;
+}
+.nav2{
+    height: 90%;
+    justify-content: center;
+    flex: 5;
+}
+.container3{
+    display: inline-flex;
+}
+.container3 a{
+    text-decoration: none;
+    color: black;
+    padding: 10% 50% 0% 0%;
+}
+section{
+    width: 100%;
+    height: 90%;
+    float: center;
+    border: 1px;
+    background-color: FFF0C9;
+}
+.c1{
+    display: flex;
+    height: 50%;
+    width: 100%
+}
+
+.c2{
+    display: flex;
+    height: 50%;
+    width: 100%
+}
+.co1{
+    height: 100%;
+    flex: 1;
+    display: flex;
+}
+.img1{
+    width: 70%;
+    height: 60%;
+    margin-left: 10%;
+}
+.conta{
+    display: block;
+    margin-left: 10%;
+}
+.conta2{
+    display: block;
+    margin-left: 15%;
+}
